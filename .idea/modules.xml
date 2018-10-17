@@ -3,9 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/breakout.iml" filepath="$PROJECT_DIR$/breakout.iml" />
-      <module fileurl="file://$PROJECT_DIR$/src/controller/controller.iml" filepath="$PROJECT_DIR$/src/controller/controller.iml" />
-      <module fileurl="file://$PROJECT_DIR$/src/model/model.iml" filepath="$PROJECT_DIR$/src/model/model.iml" />
-      <module fileurl="file://$PROJECT_DIR$/src/view/view.iml" filepath="$PROJECT_DIR$/src/view/view.iml" />
     </modules>
   </component>
 </project>
